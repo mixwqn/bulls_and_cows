@@ -1,0 +1,4 @@
+.env
+.idea
+__pycache__/
+bulls_cows.db
