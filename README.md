@@ -7,4 +7,4 @@
 
 ## зміст
 [ігрова логіка](https://github.com/mixwqn/bulls_and_cows/blob/main/game.py)
-[запуск]()
+[запуск](https://github.com/mixwqn/bulls_and_cows/blob/main/main.py)
